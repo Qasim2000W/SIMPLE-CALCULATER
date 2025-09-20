@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\CALCULATER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{297A80C5-A707-41FE-BB85-A7680AF8832A}|CALCULATER\\CALCULATER.csproj|h:\\calculater\\calculater\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297A80C5-A707-41FE-BB85-A7680AF8832A}|CALCULATER\\CALCULATER.csproj|solutionrelative:calculater\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297A80C5-A707-41FE-BB85-A7680AF8832A}|CALCULATER\\CALCULATER.csproj|H:\\CALCULATER\\calculater\\clsmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297A80C5-A707-41FE-BB85-A7680AF8832A}|CALCULATER\\CALCULATER.csproj|solutionrelative:calculater\\clsmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297A80C5-A707-41FE-BB85-A7680AF8832A}|CALCULATER\\CALCULATER.csproj|h:\\calculater\\calculater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297A80C5-A707-41FE-BB85-A7680AF8832A}|CALCULATER\\CALCULATER.csproj|solutionrelative:calculater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297A80C5-A707-41FE-BB85-A7680AF8832A}|CALCULATER\\CALCULATER.csproj|H:\\CALCULATER\\calculater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{297A80C5-A707-41FE-BB85-A7680AF8832A}|CALCULATER\\CALCULATER.csproj|solutionrelative:calculater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\CALCULATER\\CALCULATER\\Program.cs",
+              "RelativeDocumentMoniker": "CALCULATER\\Program.cs",
+              "ToolTip": "H:\\CALCULATER\\CALCULATER\\Program.cs",
+              "RelativeToolTip": "CALCULATER\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:13:42.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClsMath.cs",
+              "DocumentMoniker": "H:\\CALCULATER\\CALCULATER\\ClsMath.cs",
+              "RelativeDocumentMoniker": "CALCULATER\\ClsMath.cs",
+              "ToolTip": "H:\\CALCULATER\\CALCULATER\\ClsMath.cs",
+              "RelativeToolTip": "CALCULATER\\ClsMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:40:18.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "H:\\CALCULATER\\CALCULATER\\Form1.cs",
+              "RelativeDocumentMoniker": "CALCULATER\\Form1.cs",
+              "ToolTip": "H:\\CALCULATER\\CALCULATER\\Form1.cs",
+              "RelativeToolTip": "CALCULATER\\Form1.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAAKAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:49:53.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "H:\\CALCULATER\\CALCULATER\\Form1.cs",
+              "RelativeDocumentMoniker": "CALCULATER\\Form1.cs",
+              "ToolTip": "H:\\CALCULATER\\CALCULATER\\Form1.cs [Design]",
+              "RelativeToolTip": "CALCULATER\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:41:41.936Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
